@@ -21,7 +21,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Public Housing Estates Distribution',
-            image: 'Images/image1.jpg',
+            image: './Images/image1.jpg',
             description: 'Public housing in Hong Kong is a set of housing programme intended to provide affordable rental housing options for people in need. They are intended for only populations without the capacity to afford housing by their own financial capacity. They are allocated based on priority and dwelling unit type. Currently, the average waiting time exceeds 20 years with more than 200,000 person registered on the list. As there are an income limit for households to be eligible for registration, it is often used as a measure of poverty population in Hong Kong. <a href="https://www.gov.hk/en/residents/housing/publichousing/index.htm"> <strong>Read more</strong></a>',
             location: {
                 center: [114.08688, 22.4451],
